@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/mocarafee?template=classic&repositories.forks=true&introduction=1&projects=1&introduction.title=true&projects.limit=4&projects.descriptions=false&config.timezone=Asia%2FBangkok)
+![Metrics](https://github.com/Mocarafee/Mocarafee/blob/main/github-metrics.svg)
