@@ -17,7 +17,7 @@ jobs:
 
           # Options
           user: mocarafee
-          template: repository
+          template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Jakarta
           plugin_introduction: yes
